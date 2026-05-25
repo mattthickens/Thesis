@@ -1,4 +1,4 @@
-# Acoustic Drone Detection — Thesis Code
+# Acoustic Drone Detection - Thesis Code
 
 GENG4412/5512 Engineering Research Project, University of Western Australia.
 
@@ -10,10 +10,10 @@ This repository contains the Jupyter/Colab notebooks for training and evaluating
 
 ## Layout
 
-- `notebooks/final/` — final benchmark and thesis-results notebooks
-- `notebooks/training/` — model training notebooks
-- `notebooks/evaluation/` — standalone evaluation notebooks
-- `notebooks/visualisation/` — data augmentation visualisation
+- `notebooks/final/` - final benchmark and thesis-results notebooks
+- `notebooks/training/` - model training notebooks
+- `notebooks/evaluation/` - standalone evaluation notebooks
+- `notebooks/visualisation/` - data augmentation visualisation
 
 ## Model weights
 
